@@ -1,6 +1,6 @@
 import axios from "axios";
 require("dotenv").config();
-// const API_KEY="AIzaSyA-3Y-hVtLV5etP60iobtgyi72HegT_zFk"
+
 
 
 export default {
