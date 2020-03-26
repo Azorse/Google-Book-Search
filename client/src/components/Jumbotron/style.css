@@ -1,0 +1,12 @@
+.jumbotron {
+  width: 100%;
+  min-height: 400px;
+  padding-top: 100px;
+  margin: 0px;
+  margin-bottom: 5%;
+  display: table;
+  padding: 180px 20px;
+  color: #ffffff;
+  background-image: url("../../images/253322.jpg");
+  background-size: cover;
+}
